@@ -1,0 +1,5 @@
+segment,users,avg_churn_risk,recommended_action
+C0: Recently-Active,15842,0.52,"Nurture: personalised feature tips, upsell Free->Basic/Premium, ask for rating & referral"
+C1: Long-Session,7722,0.49,"Loyalty: early-access features, premium upsell, referral rewards"
+C2: Deep-Browsing + Lapsing,13131,0.49,"Re-engagement: notification/email at usual active time, highlight new features, weekly digest"
+C3: Light-Browsing + Lapsing,13305,0.49,"Re-engagement: notification/email at usual active time, highlight new features, weekly digest"

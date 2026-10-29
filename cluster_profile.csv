@@ -1,0 +1,5 @@
+segment,users,share_%,sessions_per_week,avg_session_duration_min,daily_active_minutes,feature_clicks_per_session,notifications_opened_per_week,in_app_search_count,pages_viewed_per_session,days_since_last_login,engagement_score,churn_risk_score,crash_events_last_30_days,support_tickets_raised,rating_given
+C0: Recently-Active,15842,31.7,7.82,10.1,45.05,11.96,4.89,4.02,13.37,8.26,65.45,0.52,0.39,0.2,3.67
+C1: Long-Session,7722,15.4,8.06,28.56,44.73,11.99,4.98,3.97,13.72,20.92,65.13,0.49,0.4,0.2,3.67
+C2: Deep-Browsing + Lapsing,13131,26.3,8.04,10.27,45.42,12.06,5.07,3.94,19.49,30.64,64.73,0.49,0.4,0.2,3.66
+C3: Light-Browsing + Lapsing,13305,26.6,8.09,10.43,45.03,12.03,5.05,4.0,7.5,30.6,64.43,0.49,0.4,0.2,3.67
