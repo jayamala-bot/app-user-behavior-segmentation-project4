@@ -28,8 +28,9 @@ I used unsupervised machine learning to group users by similar behavior.
 | C2: Deep-Browsing + Lapsing | 13,131 | About 19.5 pages per session, about 31 days since login | Win-back campaign |
 | C3: Light-Browsing + Lapsing | 13,305 | About 7.5 pages per session, about 31 days since login | Re-engagement digest |
 
-![PCA plot](outputs/plots/04_pca_clusters.png)
-![Elbow plot](outputs/plots/03_elbow_silhouette.png)
+![PCA plot](04_pca_clusters.png)
+![Elbow plot](03_elbow_silhouette.png)
+
 
 ## Cluster quality (honest evaluation)
 - Silhouette: 0.069 (weak separation)
